@@ -1,0 +1,148 @@
+{
+  "type": "FeatureCollection",
+  "name": "habitats",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75.68,
+              6.15
+            ],
+            [
+              -75.61,
+              6.15
+            ],
+            [
+              -75.61,
+              6.34
+            ],
+            [
+              -75.68,
+              6.34
+            ],
+            [
+              -75.68,
+              6.15
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "codigo": "H1",
+        "habitat": "Bosque secundario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75.61,
+              6.28
+            ],
+            [
+              -75.48,
+              6.28
+            ],
+            [
+              -75.48,
+              6.34
+            ],
+            [
+              -75.61,
+              6.34
+            ],
+            [
+              -75.61,
+              6.28
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "codigo": "H2",
+        "habitat": "Bosque altoandino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75.535,
+              6.15
+            ],
+            [
+              -75.48,
+              6.15
+            ],
+            [
+              -75.48,
+              6.28
+            ],
+            [
+              -75.535,
+              6.28
+            ],
+            [
+              -75.535,
+              6.15
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "codigo": "H3",
+        "habitat": "Mosaico agroforestal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75.61,
+              6.15
+            ],
+            [
+              -75.535,
+              6.15
+            ],
+            [
+              -75.535,
+              6.28
+            ],
+            [
+              -75.61,
+              6.28
+            ],
+            [
+              -75.61,
+              6.15
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "codigo": "H4",
+        "habitat": "Bosque húmedo"
+      }
+    }
+  ]
+}

@@ -47,3 +47,38 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+
+# PRIVADO: no publicar material exclusivo del docente
+/docente/
+/instructor/
+/colab/instructor/
+/scripts/
+**/soluciones/
+**/*_solucion.ipynb
+**/*_solucion.qmd
+**/*_soluciones.*
+**/clave_evaluaciones.md
+**/guia_docente.md
+# Entregas de estudiantes en copia local
+/entregas/
+/privado/
+# R, Jupyter, Quarto, herramientas y sistemas
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+renv/library/
+renv/staging/
+.ipynb_checkpoints/
+
+__pycache__/
+.pytest_cache/
+.quarto/
+_site/
+.DS_Store
+*.Rproj.user
+*.swp
+*.bak
+*.tmp
+# No ignorar todos los ipynb: son el material público
