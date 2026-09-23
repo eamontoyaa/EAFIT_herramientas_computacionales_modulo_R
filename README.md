@@ -8,8 +8,8 @@
 | Semana | Día | Tema | Abrir en Colab |
 |---|---|---|---|
 | 11 | Lunes | Fundamentos de R | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/01_fundamentos_R.ipynb) |
-<!-- | 11 | Miércoles | Estructuras de control | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/02_control_y_funciones.ipynb) |
-| 12 | Lunes | Funciones y vectorización | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/03_funciones_y_vectorizacion.ipynb) |
+| 11 | Miércoles | Estructuras de control | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/02_control_y_funciones.ipynb) |
+<!-- | 12 | Lunes | Funciones y vectorización | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/03_funciones_y_vectorizacion.ipynb) |
 | 12 | Miércoles | Manipulación de tablas creadas en R | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/04_lectura_y_manipulacion.ipynb) |
 | 13 | Lunes | Lectura de CSV, EDA y gráficos R base | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/05_analisis_exploratorio.ipynb) |
 | 13 | Miércoles | Visualización con ggplot2 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/06_visualizacion_ggplot2.ipynb) |
@@ -19,9 +19,6 @@
 | 15 | Miércoles | Cartografía temática | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/10_cartografia.ipynb) | -->
 
 ## Talleres
-
-### Talleres
-
 
 - **Taller 01** → [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/talleres/taller_01.ipynb)
 
@@ -45,7 +42,7 @@
 
 - **banco ejercicios** — [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/ejercicios/banco_ejercicios.ipynb) -->
 
-### Complementarios
+<!-- ### Complementarios -->
 
 <!--
 - **mapas interactivos** — [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/complementarios/mapas_interactivos.ipynb)
