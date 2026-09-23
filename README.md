@@ -7,8 +7,8 @@
 
 | Semana | Día | Tema | Abrir en Colab |
 |---|---|---|---|
-| 11 | Lunes | Fundamentos de R | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/01_fundamentos_R.ipynb) |
-| 11 | Miércoles | Estructuras de control | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/02_control_y_funciones.ipynb) |
+| 11 | Lunes y miércoles | Fundamentos de R | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/01_fundamentos_R.ipynb) |
+| 12 | Lunes | Estructuras de control | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/02_control_y_funciones.ipynb) |
 <!-- | 12 | Lunes | Funciones y vectorización | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/03_funciones_y_vectorizacion.ipynb) |
 | 12 | Miércoles | Manipulación de tablas creadas en R | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/04_lectura_y_manipulacion.ipynb) |
 | 13 | Lunes | Lectura de CSV, EDA y gráficos R base | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/05_analisis_exploratorio.ipynb) |
