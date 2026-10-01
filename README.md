@@ -22,9 +22,9 @@
 
 - **Taller 01** → [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/talleres/taller_01.ipynb)
 
-<!-- - **taller 02** — [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/talleres/taller_02.ipynb)
+- **taller 02** — [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/talleres/taller_02.ipynb)
 
-- **taller 03** — [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/talleres/taller_03.ipynb)
+<!-- - **taller 03** — [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/talleres/taller_03.ipynb)
 
 - **taller 04** — [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/talleres/taller_04.ipynb)
 
