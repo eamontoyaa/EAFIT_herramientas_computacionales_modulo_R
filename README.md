@@ -8,11 +8,10 @@
 | Semana | Día | Tema | Abrir en Colab |
 |---|---|---|---|
 | 11 | Lunes y miércoles | Fundamentos de R | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/01_fundamentos_R.ipynb) |
-| 12 | Lunes | Estructuras de control | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/02_control_y_funciones.ipynb) |
-<!-- | 12 | Lunes | Funciones y vectorización | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/03_funciones_y_vectorizacion.ipynb) |
-| 12 | Miércoles | Manipulación de tablas creadas en R | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/04_lectura_y_manipulacion.ipynb) |
-| 13 | Lunes | Lectura de CSV, EDA y gráficos R base | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/05_analisis_exploratorio.ipynb) |
-| 13 | Miércoles | Visualización con ggplot2 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/06_visualizacion_ggplot2.ipynb) |
+| 12 | Lunes y miércoles | Estructuras de control | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/02_control_y_funciones.ipynb) |
+| 13 | Miércoles | Funciones en R | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/03_funciones.ipynb) |
+| 13 | Miércoles | Lectura de archivos y operaciones básicas | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/04_lectura_y_analisis_exploratorio.ipynb) |
+<!-- | 13 | Miércoles | Visualización con ggplot2 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/06_visualizacion_ggplot2.ipynb) |
 | 14 | Lunes | Datos vectoriales sf | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/07_datos_vectoriales_sf.ipynb) |
 | 14 | Miércoles | Raster con terra | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/08_raster_terra.ipynb) |
 | 15 | Lunes | Interpolación IDW | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/09_interpolacion_espacial.ipynb) |
@@ -63,7 +62,7 @@ Los porcentajes suman el **100 % de la evaluación del módulo**.
 
 ## Datos y licencia
 
-- Los datos se generaron exclusivamente para aprendizaje: no representan mediciones ni cartografía oficial. Cuando se haga uso de datos reales, se informará y referenciará adecuadamente.
+- El repositorio combina datos sintéticos para ejercicios con archivos de USGS, NASA POWER y Palmer Penguins para la clase 04. Las fuentes se enlazan en el notebook y en [la descripción de los datos](data/README.md). Los datos sintéticos no representan mediciones ni cartografía oficial.
 - Material docente propio basado conceptualmente en los cursos de [Programación y análisis cuantitativo con R](https://labscn-unalmed.github.io/programacion-R/clases.html) y del [módulo R](https://labscn-unalmed.github.io/modulo-R/) del curso Lenguajes Estadísticos del [LabSCN](https://labscn-unalmed.github.io/).
 - El contenido educativo de este repositorio se distribuye bajo la
 [Licencia Creative Commons Attribution 4.0](http://choosealicense.com/licenses/cc-by-4.0/), mientras que el código fuente se distribuye bajo la
