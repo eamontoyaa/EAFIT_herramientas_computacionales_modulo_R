@@ -5,17 +5,17 @@
 
 ## Cronograma
 
-| Semana | Día | Tema | Abrir en Colab |
-|---|---|---|---|
-| 11 | Lunes y miércoles | Fundamentos de R | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/01_fundamentos_R.ipynb) |
-| 12 | Lunes y miércoles | Estructuras de control | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/02_control_y_funciones.ipynb) |
-| 13 | Miércoles | Funciones en R | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/03_funciones.ipynb) |
-| 13 | Miércoles | Lectura de archivos y operaciones básicas | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/04_lectura_y_analisis_exploratorio.ipynb) |
-<!-- | 13 | Miércoles | Visualización con ggplot2 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/06_visualizacion_ggplot2.ipynb) |
-| 14 | Lunes | Datos vectoriales sf | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/07_datos_vectoriales_sf.ipynb) |
-| 14 | Miércoles | Raster con terra | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/08_raster_terra.ipynb) |
-| 15 | Lunes | Interpolación IDW | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/09_interpolacion_espacial.ipynb) |
-| 15 | Miércoles | Cartografía temática | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/10_cartografia.ipynb) | -->
+
+| Tema | Abrir en Colab |
+|---|---|
+| Fundamentos de R | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/01_fundamentos_R.ipynb) |
+| Estructuras de control | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/02_control_y_funciones.ipynb) |
+| Funciones en R | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/03_funciones.ipynb) |
+| Lectura de archivos y operaciones básicas | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/04_lectura_y_analisis_exploratorio.ipynb) |
+| Figuras con R base | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/05_figuras_R_base.ipynb) |
+| Gráficos con ggplot2 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/06_graficacion_ggplot2.ipynb) |
+<!-- | Interpolación espacial y mapas | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/07_interpolacion_espacial.ipynb) | -->
+
 
 ## Talleres
 
@@ -25,28 +25,7 @@
 
 - **taller 03** — [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/talleres/taller_03.ipynb)
 
-<!-- - **taller 04** — [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/talleres/taller_04.ipynb)
 
-- **taller 05** — [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/talleres/taller_05.ipynb) -->
-
-<!-- ### Evaluaciones -->
-
-
-<!-- - **Trabajo evaluativo 1 · 30 %** — [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/evaluaciones/actividad_1_10pct.ipynb)
-
-- **Trabajo evaluativo 2 · 40 %** — [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/evaluaciones/actividad_2_15pct.ipynb) -->
-
-<!-- ### Ejercicios
-
-
-- **banco ejercicios** — [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/ejercicios/banco_ejercicios.ipynb) -->
-
-<!-- ### Complementarios -->
-
-<!--
-- **mapas interactivos** — [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/complementarios/mapas_interactivos.ipynb)
-
-- **operaciones vectoriales** — [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/complementarios/operaciones_vectoriales.ipynb) -->
 
 ## Evaluación
 
