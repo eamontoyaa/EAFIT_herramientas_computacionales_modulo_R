@@ -14,7 +14,7 @@
 | Lectura de archivos y operaciones básicas | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/04_lectura_y_analisis_exploratorio.ipynb) |
 | Figuras con R base | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/05_figuras_R_base.ipynb) |
 | Gráficos con ggplot2 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/06_graficacion_ggplot2.ipynb) |
-<!-- | Interpolación espacial y mapas | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/07_interpolacion_espacial.ipynb) | -->
+| Interpolación espacial y mapas | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eamontoyaa/EAFIT_herramientas_computacionales_modulo_R/blob/main/estudiantes/clases/07_interpolacion_espacial.ipynb) |
 
 
 ## Talleres
